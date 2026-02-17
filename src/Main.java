@@ -20,6 +20,6 @@ public class Main {
         System.out.println("You entered: " + input);
 
         // Close scanner
-        scanner.close();
+        scanner.close()
     }
 }
